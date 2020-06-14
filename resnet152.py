@@ -30,7 +30,7 @@ from keras.utils import layer_utils
 from keras import initializers
 from keras.engine import Layer, InputSpec
 from keras.utils.data_utils import get_file
-from keras.applications.imagenet_utils import _obtain_input_shape
+from keras_applications.imagenet_utils import _obtain_input_shape
 
 import sys
 
